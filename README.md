@@ -13,9 +13,13 @@ npm I
 
 
 Now we are going to download the taiwindcss
+
 https://tailwindcss.com/docs/installation
+
 https://tailwindcss.com/docs/guides/vite
+
 when you are using vite, it is a different story
+
 ```
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init
