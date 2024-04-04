@@ -9,7 +9,7 @@ Choose React and Javascript+swc
 
 cd client
 npm I
-
+```
 
 
 Now we are going to download the taiwindcss
@@ -19,6 +19,7 @@ when you are using vite, it is a different story
 ```
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init
+
 ```
 
 /** @type {import('tailwindcss').Config} */
@@ -53,5 +54,5 @@ taiwindcss intelligence need to be set up:
 
 
 rfc in app.jsx
-
+```
 
